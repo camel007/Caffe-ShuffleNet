@@ -9,6 +9,9 @@ Neural Network for Mobile Devices" by Xiangyu Zhang et. al. 2017](https://arxiv.
     | 香蕉        | $1      |   5    |
     | 苹果        | $1      |   6    |
     | 草莓        | $1      |   7    |  
+    
+    
+    
     | group 1    | group 2    |  group 3  |
     | ：-：   | ：-：      | ：-： |  
     | 1    2     | 3     4    | 5   6     |  
