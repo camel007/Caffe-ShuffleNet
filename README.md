@@ -5,5 +5,5 @@ Neural Network for Mobile Devices" by Xiangyu Zhang et. al. 2017](https://arxiv.
 
 # Notes
     | group 1    | group 2    |  group 3  |
-    | --------   | -----      | --------- |
+    | --------:   | -----:      | :---------: |
     | 1   | 2    | 3   |  4   | 5  | 6    |
