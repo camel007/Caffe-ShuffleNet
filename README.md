@@ -18,5 +18,5 @@ Neural Network for Mobile Devices" by Xiangyu Zhang et. al. 2017](https://arxiv.
     | group 1  | group 2  |  group 3  |
     | 1     3  | 5     2  |  4     6  |  
 
-# Acknowledge  
+# Acknowledgement  
 [HolmesShuan](https://github.com/HolmesShuan)
