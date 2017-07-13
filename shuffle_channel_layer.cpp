@@ -11,6 +11,7 @@ void ShuffleChannelLayer<Dtype>::LayerSetUp(const vector<Blob<Dtype> *> &bottom,
     group_ = this->layer_param_.shuffle_channel_param().group();
     CHECK_GT(group_, 0) << "group must be greater than 0";
     temp_blob_.ReshapeLike(*bottom[0]);
+    top[0]->ReshapeLike(*bottom[0]);
 }
 
 template <typename Dtype>
